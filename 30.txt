@@ -1,0 +1,1 @@
+paho_c_pub -t my_topic -m test --connection mqtt.eclipseprojects.io:1883

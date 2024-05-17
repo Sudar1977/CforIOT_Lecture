@@ -1,0 +1,1 @@
+paho_c_sub –t my_topic --connection mqtt.eclipseprojects.io:1883

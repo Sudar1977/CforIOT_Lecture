@@ -1,0 +1,2 @@
+mosquitto_sub -h 127.0.0.1 -p 1883 -t GB -u "IoT" -P "student1"
+mosquitto_pub -h 127.0.0.1 -p 1883 -t "GB" -m "Hello, GB!" -u "IoT" -P "student1"
